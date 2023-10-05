@@ -1,6 +1,6 @@
 ### Stay crafy, my friends 🧙
 
-[![An image of @harlemsquirrel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harlemsquirrel)](https://holopin.io/@harlemsquirrel)
+[![Holopin profile](https://holopin.me/harlemsquirrel)](https://holopin.io/@harlemsquirrel)
 
 <!--
 **HarlemSquirrel/HarlemSquirrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
