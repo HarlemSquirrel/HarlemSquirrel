@@ -1,7 +1,5 @@
 ### Stay crafy, my friends 🧙
 
-[![Holopin profile](https://holopin.me/harlemsquirrel)](https://holopin.io/@harlemsquirrel)
-
 <!--
 **HarlemSquirrel/HarlemSquirrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
